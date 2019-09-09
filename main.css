@@ -15,15 +15,19 @@ div {
 #orange {
   border-top-color: #f00;
 }
-#red {
+#yellow {
   border-top-color: #f00;
 }
-#red {
+#green {
+  border-top-color: #f00;
+}
+#blue {
+  border-top-color: #f00;
+}
+#indigo {
+  border-top-color: #f00;
+}
+#violet {
   border-top-color: #f00;
 }
 
-<div id="yellow"> 
-          <div id="green"> 
-            <div id="blue">
-              <div id="indigo"> 
-                <div id="violet"></div> <!-- the grandest child div -->
